@@ -1,0 +1,14 @@
+com\fshsystems\cloudvendor\controller\FavoriteController.class
+com\fshsystems\cloudvendor\config\WebConfig.class
+com\fshsystems\cloudvendor\controller\AdminController.class
+com\fshsystems\cloudvendor\controller\ProductController.class
+com\fshsystems\cloudvendor\entity\Favorite.class
+com\fshsystems\cloudvendor\CloudvendorApplication.class
+com\fshsystems\cloudvendor\repo\AdminRepository.class
+com\fshsystems\cloudvendor\config\CorsConfig$1.class
+com\fshsystems\cloudvendor\config\CorsConfig.class
+com\fshsystems\cloudvendor\entity\Product.class
+com\fshsystems\cloudvendor\repo\ProductRepository.class
+com\fshsystems\cloudvendor\entity\Admin.class
+com\fshsystems\cloudvendor\repo\FavoriteRepository.class
+com\fshsystems\cloudvendor\security\JwtUtil.class
